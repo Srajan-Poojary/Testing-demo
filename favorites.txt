@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Chicken Biryani
 Chicken Shawarma
 Palak Chicken
+=======
+Forest Gump
+Shawshank Redemption
+Coda
+Miracle in cell no 7
+>>>>>>> movies
